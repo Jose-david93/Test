@@ -1,0 +1,16 @@
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Test.BussinesLogic.deps.json
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Test.BussinesLogic.dll
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Test.BussinesLogic.pdb
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Test.AccesData.dll
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Test.Transversal.dll
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Test.AccesData.pdb
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Test.Transversal.pdb
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\obj\Debug\netcoreapp2.2\Test.BussinesLogic.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\obj\Debug\netcoreapp2.2\Test.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\obj\Debug\netcoreapp2.2\Test.BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\obj\Debug\netcoreapp2.2\Test.BussinesLogic.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\obj\Debug\netcoreapp2.2\Test.BussinesLogic.csproj.CopyComplete
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\obj\Debug\netcoreapp2.2\Test.BussinesLogic.dll
+C:\Users\MSI\source\repos\Test\Test.BussinesLogic\obj\Debug\netcoreapp2.2\Test.BussinesLogic.pdb

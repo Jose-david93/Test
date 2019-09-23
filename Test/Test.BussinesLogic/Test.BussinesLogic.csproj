@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Test.AccesData\Test.AccesData.csproj" />
+    <ProjectReference Include="..\Test.Transversal\Test.Transversal.csproj" />
+  </ItemGroup>
+
+</Project>
